@@ -12,4 +12,6 @@ I help teams ship reliably, automate the boring stuff, and keep production from 
 ### Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kamil__co-2CA5E0?style=flat&logo=telegram)](https://t.me/kamil_co)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamil__kayumov-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kamil-kayumov)  
+[![Setka](https://img.shields.io/badge/Setka-Profile-8B5CF6?style=flat)](https://setka.ru/users/2d0c08e1-0d4d-454f-b964-6646953e5b2a)  
 [![Email](https://img.shields.io/badge/Email-kamilkayumov%40gmail.com-red?style=flat&logo=gmail)](mailto:kamilkayumov@gmail.com)
