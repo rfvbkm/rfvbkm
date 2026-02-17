@@ -1,21 +1,15 @@
-### Hi there 👋
+# Hi, I'm Kamil
 
-**How to reach me:**
+**Tech Lead DevOps** · 11 years in IT, 6+ in DevOps, 3+ leading teams
 
-<a href="https://www.linkedin.com/in/kamil-kayumov-a72472186/"> <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://t.me/kamil_co"> <img align="left" alt="Kamil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+I help teams ship reliably, automate the boring stuff, and keep production from catching fire. When it does — I'm the one writing the postmortem so we don't do it twice.
 
-<!--
-**rfvbkm/rfvbkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building and leading DevOps teams (up to 5 people)
+- Designing infra that scales, survives, and doesn't keep you up at night
+- Spreading the "you build it, you run it" vibe and making IaC the default, not the exception
+- Based in Kazan, working remotely
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@kamil__co-2CA5E0?style=flat&logo=telegram)](https://t.me/kamil_co)  
+[![Email](https://img.shields.io/badge/Email-kamilkayumov%40gmail.com-red?style=flat&logo=gmail)](mailto:kamilkayumov@gmail.com)
