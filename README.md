@@ -1,6 +1,6 @@
 # Hi, I'm Kamil
 
-**Tech Lead DevOps** · 11 years in IT, 6+ in DevOps, 3+ leading teams
+**Tech Lead DevOps** · 12 years in IT, 7+ in DevOps, 4+ leading teams
 
 I help teams ship reliably, automate the boring stuff, and keep production from catching fire. When it does — I'm the one writing the postmortem so we don't do it twice.
 
